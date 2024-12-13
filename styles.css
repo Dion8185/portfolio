@@ -403,10 +403,15 @@ div.about{
   font-size: 2em;
 }
 
-
-
-
+@media (max-width: 400px) {
+  .gallery{
+    display: flex;
+    flex-direction: column;
+  }
+  
+}
 @media (max-width: 980px) {
+
   .educ{
     display: flex;
     flex-direction: column;
