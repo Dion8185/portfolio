@@ -68,7 +68,7 @@ nav {
   display: none;
   cursor: pointer;
   font-size: 3vh;
-  color: white;
+  color: #ffd700;
   position: fixed;
   top: 2vh;
   left: 5vw;
@@ -109,7 +109,7 @@ nav {
 }
 
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 760px) {
   .nav-links {
       display: none;
   }
@@ -372,7 +372,7 @@ div.about{
 
 .gallery{
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 20px;
   padding: 20px;
 }
