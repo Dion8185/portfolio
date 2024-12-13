@@ -86,7 +86,7 @@ nav {
   padding: 1rem;
   z-index: 1101;
   flex-direction: column;
-  font-family: "Arial Black";
+  font-family: "Archivo Black";
 }
 
 .sidebar a {
@@ -209,7 +209,7 @@ div.about{
 }
 .about h1{
   color:  #2B70E4;
-  font-family: "Arial Black";
+  font-family: "Archivo Black";
   text-shadow: white 2px 1px 1px;
 }
 
@@ -236,7 +236,7 @@ div.about{
   text-align: center;
   margin-bottom: 5%;
   font-size: 2em;
-  font-family: "Arial Black";
+  font-family: "Archivo Black";
 }
 
 .fam-card {
@@ -253,7 +253,7 @@ div.about{
 }
 .fam-card h3 {
   margin: 0.5em 0;
-  font-family: "Arial Black";
+  font-family: "Archivo Black";
 }
 
 .fam-card p{
@@ -296,7 +296,7 @@ div.about{
 } 
 
 .ter b, .sec b, .prim b{
-  font-family: "Arial Black";
+  font-family: "Archivo Black";
   padding-right: 31px;
 }
 
@@ -314,7 +314,7 @@ div.about{
   color: #2B70E4;
   font-size: 2em;
   text-shadow: white 2px 1px 1px;
-  font-family: "Arial Black";
+  font-family: "Archivo Black";
 }
 
 .educ #h123{
@@ -354,7 +354,7 @@ div.about{
 }
 .card h3 {
   margin: 0.5em 0;
-  font-family: "Arial Black";
+  font-family: "Archivo Black";
 }
 
 .card p{
@@ -398,7 +398,7 @@ div.about{
 .gal h1{
   text-align: center;
   color: #2B70E4;
-  font-family: "Arial Black";
+  font-family: "Archivo Black";
   text-shadow: white 2px 1px 1px;
   font-size: 2em;
 }
@@ -450,7 +450,7 @@ div.about{
     position:relative;
     text-align: center;
     color: #2B70E4;
-    font-family: "Arial Black";
+    font-family: "Archivo Black";
   }
 
 }
